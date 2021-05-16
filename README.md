@@ -132,7 +132,7 @@ Since then I pushed **1572**+ commits, opened **202**+ issues, submitted **219**
   <br />
   <summary><b>⚙️ Things I use to get stuff done</b></summary>
   	<ul>
-  	    <li><b>OS:</b> Ubuntu 20.04</li>
+  	    <li><b>OS:</b> Windows 10</li>
 	    <li><b>Laptop: </b> Lenovo Yoga Slim 7 (AMD Ryzen 5-4500U)</li>
   	    <li><b>Browser: </b> Microsoft Edge</li>
 	    <li><b>Terminal: </b> Windows Powershell and ZSH: Oh My Zsh (PowerLevel10k)</li>
