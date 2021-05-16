@@ -139,7 +139,7 @@ Since then I pushed **1572**+ commits, opened **202**+ issues, submitted **219**
 	    <li><b>Code Editor:</b> VSCode - The best editor out there.</li>
 	    <li><b>To Stay Updated:</b> Linkedin and Twitter.</li>
 	    <br />
-	⚛️ Checkout My VSCode Configrations <a href="https://gist.github.com/pragusga25/settings.json">Here</a>.
+	⚛️ Checkout My VSCode Configrations <a href="https://gist.github.com/pragusga25/bffce1aebbee0b3e0dacce463216042e">Here</a>.
 	</ul>	
 </details>
 
