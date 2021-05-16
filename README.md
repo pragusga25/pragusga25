@@ -23,7 +23,7 @@ Since then I pushed **1572**+ commits, opened **202**+ issues, submitted **219**
 
 ### Talking about Personal Stuffs:
 
-- 🛠 &nbsp; I’m currently working with NextJs, React, <br /> Graphql, PostgreSQL, Javascript, Typescript, etc.
+- 🛠 &nbsp; I’m currently working with React, Graphql, Typescript, etc.
 - 🚀 &nbsp; I’m currently learning Full Stack Development.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/pragusga25).
 - 💬 &nbsp; Ask me about anything [here](https://github.com/pragusga25/pragusga25/issues/1)! I am happy to help.
