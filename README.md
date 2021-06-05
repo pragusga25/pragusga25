@@ -10,7 +10,7 @@
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=pragusga25.pragusga25&style=flat-square&color=0088cc)
 
-I'm a first year student pursuing Bachelors's in Computer Science 🎓 from University of Indonesia 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. I'm currently into Web Development and Data Science 🤓.
+I'm a first year student pursuing Bachelors's in Computer Science 🎓 from University of Indonesia 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. I'm currently into Web Development and Ethical Hacking 🤓.
 
 <!-- Joined Github **2** years ago.
 
