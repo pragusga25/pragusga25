@@ -49,10 +49,9 @@ Since then I pushed **1572**+ commits, opened **202**+ issues, submitted **219**
 <code><img height="27" src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql"></code>
 <code><img height="27" src="https://www.vectorlogo.zone/logos/hasuraio/hasuraio-icon.svg" alt="hasura"></code>
 <code><img height="27" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="postgresql"></code>
-<!-- <code><img height="27" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg" alt="django"></code> -->
 <code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="terminal"></code>
-
+<!-- <code><img height="27" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg" alt="django"></code> -->
 <!--
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" alt="sass"></code>
 -->
