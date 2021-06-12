@@ -68,7 +68,6 @@ Since then I pushed **1572**+ commits, opened **202**+ issues, submitted **219**
 
 <details>	
   <summary><b>☄️ Github Streaks</b></summary>
-
   <br />
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=pragusga25&hide_border=true" />
 </details>
