@@ -17,7 +17,6 @@ I'm a first year student pursuing Bachelors's in Computer Science from Universit
 Since then I pushed **1572**+ commits, opened **202**+ issues, submitted **219**+ pull requests, created **19**+ gists and contributed to **12**+ public repositories. -->
 
 <!-- [![](https://gitwar.herokuapp.com/badge?username=iampavangandhi&label=Gitwar%20Profile%20Score&style=for-the-badge&color=0088cc)](https://gitwar.herokuapp.com/) -->
-
 <!-- <img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" /> -->
 
 ### Talking about Personal Stuffs:
