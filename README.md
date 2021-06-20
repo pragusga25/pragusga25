@@ -39,7 +39,7 @@ Since then I pushed **1572**+ commits, opened **202**+ issues, submitted **219**
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript"></code>
 <code><img height="27" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/512px-Typescript_logo_2020.svg.png" alt="typescript"></code>
-<code><img height="27" src="https://img-premium.flaticon.com/png/512/226/226777.png?token=exp=1621207192~hmac=216104e6c20e65d460fd39061f49f613" alt="javas"></code>
+<code><img height="27" src="https://img-premium.flaticon.com/png/512/226/226777.png?token=exp=1621207192~hmac=216104e6c20e65d460fd39061f49f613" alt="java"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="nodejs"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="react"></code>
 <code><img height="27" src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql"></code>
