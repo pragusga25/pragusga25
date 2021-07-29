@@ -19,7 +19,7 @@ Since then I pushed **1572**+ commits, opened **202**+ issues, submitted **219**
 
 ### Talking about Personal Stuffs:
 
-- 🛠 &nbsp; I’m currently working with React, Graphql, Typescript, etc.
+- 🛠 &nbsp; I’m currently working with Next JS, Graphql, Typescript, etc.
 - 🚀 &nbsp; I’m currently learning Full Stack Web Development.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/pragusga25) and [Gitlab](https://gitlab.com/pragusga).
 - 💬 &nbsp; Ask me about anything [here](https://github.com/pragusga25/pragusga25/issues/1)! I am happy to help.
@@ -42,6 +42,7 @@ Since then I pushed **1572**+ commits, opened **202**+ issues, submitted **219**
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" alt="java"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="nodejs"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="react"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" alt="django"></code>
 <code><img height="27" src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql"></code>
 <code><img height="27" src="https://www.vectorlogo.zone/logos/hasuraio/hasuraio-icon.svg" alt="hasura"></code>
 <code><img height="27" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="postgresql"></code>
