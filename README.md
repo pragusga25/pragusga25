@@ -41,7 +41,7 @@ Since then I pushed **1572**+ commits, opened **202**+ issues, submitted **219**
 <code><img height="27" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/512px-Typescript_logo_2020.svg.png" alt="typescript"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" alt="java"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="nodejs"></code>
-<code><img height="27" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.npmjs.com%2F~nestjscore&psig=AOvVaw0nZcUzuWtRQJOl0GQs376Y&ust=1633400231167000&source=images&cd=vfe&ved=0CAkQjRxqFwoTCMCmzZfYr_MCFQAAAAAdAAAAABAJ" alt="nestjs"></code>
+<code><img height="27" src="https://www.npmjs.com/npm-avatar/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdmF0YXJVUkwiOiJodHRwczovL3MuZ3JhdmF0YXIuY29tL2F2YXRhci9lZDI1OTU4NzA0MWM1YWI3OWYyNGNiMWUzNDFmMGEzNz9zaXplPTQ5NiZkZWZhdWx0PXJldHJvIn0.WGSTeMkmlKyhMVynI4jhqaJ3JjH7-1FJs9Imqs5FY0U" alt="nestjs"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="react"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" alt="django"></code>
 <code><img height="27" src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql"></code>
