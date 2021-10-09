@@ -10,9 +10,9 @@
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=pragusga25.pragusga25&style=flat-square&color=0088cc)
 
 I'm a sophomore pursuing Bachelors's in Computer Science from University of Indonesia. I'm a passionate learner who's always willing to learn and work across technologies and domains. I love to explore new technologies and leverage them to solve real-life problems. I'm currently into Web Development and Mobile Development.
-
+<center>
 <a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/pragusga25/pragusga25/blob/master/devcard.svg" width="400" alt="Taufik Pragusga's Dev Card"/></a>
-
+</center>
 <!-- Joined Github **2** years ago.
 
 Since then I pushed **1572**+ commits, opened **202**+ issues, submitted **219**+ pull requests, created **19**+ gists and contributed to **12**+ public repositories. -->
