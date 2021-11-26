@@ -26,7 +26,7 @@ Since then I pushed **1572**+ commits, opened **202**+ issues, submitted **219**
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/pragusga25) and [Gitlab](https://gitlab.com/pragusga).
 - 💬 &nbsp; Ask me about anything [here](https://github.com/pragusga25/pragusga25/issues/1)! I am happy to help.
 - 👾 &nbsp; Fun fact: I prefer Typescript to Javascript.
-- 📫 &nbsp; How to reach me: pragusga25@gmail.com.
+- 📫 &nbsp; How to reach me: taufik@pragusga.com.
 <!-- - 📝 &nbsp; Checkout my [Resume](https://github.com/iampavangandhi/iampavangandhi/blob/master/resume.pdf). -->
 
 ### My Absolute Favorites:
