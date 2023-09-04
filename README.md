@@ -70,6 +70,13 @@ Since then I pushed **1572**+ commits, opened **202**+ issues, submitted **219**
 </details>
 
 <details>	
+  <summary><b>⚡ Leetcode Stats</b></summary>
+
+  <br />
+  ![](https://leetcard.jacoblin.cool/pragusga25?ext=activity)
+</details>
+
+<details>	
   <summary><b>☄️ Github Streaks</b></summary>
   <br />
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=pragusga25&hide_border=true" />
