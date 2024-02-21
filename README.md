@@ -16,7 +16,8 @@ I'm a final year student pursuing Bachelors's in Computer Science from Universit
 ![Pragusga's leetcode activity](https://leetcard.jacoblin.cool/pragusga25?ext=activity)
 
 <center>
-<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/pragusga25/pragusga25/blob/master/devcard.svg" width="400" alt="Taufik Pragusga's Dev Card"/></a>
+<!-- <a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/pragusga25/pragusga25/blob/master/devcard.svg" width="400" alt="Taufik Pragusga's Dev Card"/></a> -->
+<a href="https://app.daily.dev/pragusga"><img src="https://api.daily.dev/devcards/v2/DX12645_E.png?r=21d&type=wide" width="652" alt="Taufik Pragusga's Dev Card"/></a>
 </center>
 <!-- Joined Github **2** years ago.
 
