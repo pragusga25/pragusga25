@@ -10,7 +10,7 @@
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=pragusga25.pragusga25&style=flat-square&color=0088cc)
 
-I'm a final year student pursuing Bachelors's in Computer Science from University of Indonesia. I'm a passionate learner who's always willing to learn and work across technologies and domains. I love to explore new technologies and leverage them to solve real-life problems. I'm currently into Web Development.
+I'm a sofware engineer who's always willing to learn and work across technologies and domains. I love to explore new technologies and leverage them to solve real-life problems. I'm currently into Web Development.
 
 ![Pragusga's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=pragusga25&theme=tokyo-night)
 ![Pragusga's leetcode activity](https://leetcard.jacoblin.cool/pragusga25?ext=activity)
